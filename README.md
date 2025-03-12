@@ -1,4 +1,4 @@
-# tp_python_vde
+# tp_python_vde 1.2.0
 
 # Application Pratique: Gestion des Ventes Quotidiennes d'un Magasin
 
